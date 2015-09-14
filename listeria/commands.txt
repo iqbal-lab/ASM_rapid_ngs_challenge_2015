@@ -2,3 +2,19 @@
 ## 1. Download the data
 
 Use SRA-toolkit. We wrapped this in a perl script that got SRA id's from the spreadsheet provided.
+
+
+## 2. Download a set of background isolates that cover the phylogeny:
+bash listeria/scripts/get_Lmono_deli.sh
+
+
+## 2. Run cortex independent pipeline to (...) output vcf of variation
+
+date; perl ~/apps/cortex/scripts/calling/run_indep_wkflow_with_gnu_par.pl  --index /data3/projects/outbreak_challenge/listeria/data/INDEX --ref_fa /data2/users/rachel/projects/outbryk/species/Listeria/refdata/L2624.fasta --dir_for_ref_objects ref/ --vcftools_dir ~/apps/vcftools_0.1.13/ --outdir results/ --stampy_bin /apps/well/stampy/1.0.24-py2.7/stampy.py --kmer 31 --mem_height 20 --mem_width 100 --procs 18 --prefix LISTERIA; date
+
+cd results
+perl /data2/users/rachel/projects/outbryk/scripts/filter_cortex_vcf.pl LISTERIA.combined.vcf
+bash /data2/users/rachel/projects/outbryk/scripts/vcf_CortextofastaSNPs.sh  LISTERIA.combined.vcf.filtered
+snp-sites -p -o LISTERIA.combined.vcf.filtered.all_snps.phy LISTERIA.combined.vcf.filtered.all_snps.fasta
+/apps/well/PhyML/3.1/PhyML-3.1_linux64 -i LISTERIA.combined.vcf.filtered.all_snps.phy -d nt -q -b 250 -m K80 --quiet
+cd ..
