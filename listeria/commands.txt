@@ -1,0 +1,4 @@
+
+## 1. Download the data
+
+Use SRA-toolkit. We wrapped this in a perl script that got SRA id's from the spreadsheet provided.
