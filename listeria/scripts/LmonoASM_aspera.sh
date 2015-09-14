@@ -1,3 +1,4 @@
+#!/bin/bash
 ~/.aspera/connect/bin/ascp -i /home/henk/.aspera/connect/etc/asperaweb_id_dsa.openssh -k1 -Tr -l200m anonftp@ftp-trace.ncbi.nlm.nih.gov:/sra/sra-instant/reads/ByRun/sra/SRR/SRR235/SRR2352235/SRR2352235.sra ASM_51.sra
 ~/.aspera/connect/bin/ascp -i /home/henk/.aspera/connect/etc/asperaweb_id_dsa.openssh -k1 -Tr -l200m anonftp@ftp-trace.ncbi.nlm.nih.gov:/sra/sra-instant/reads/ByRun/sra/SRR/SRR235/SRR2352236/SRR2352236.sra ASM_52.sra
 ~/.aspera/connect/bin/ascp -i /home/henk/.aspera/connect/etc/asperaweb_id_dsa.openssh -k1 -Tr -l200m anonftp@ftp-trace.ncbi.nlm.nih.gov:/sra/sra-instant/reads/ByRun/sra/SRR/SRR235/SRR2352237/SRR2352237.sra ASM_53.sra
