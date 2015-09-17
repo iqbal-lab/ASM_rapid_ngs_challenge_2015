@@ -2,3 +2,21 @@
 ## 1. Download the data
 
 Use SRA-toolkit. We wrapped this in a perl script that got SRA id's from the spreadsheet provided.
+
+## 2. Run cortex independant pipeline on ASM data + background data
+# cortex commit: d2f44f32a89439cd2f7368f758731d294bdf3afc
+perl ~/apps/cortex/scripts/calling/run_indep_wkflow_with_gnu_par.pl  --index /data3/projects/outbreak_challenge/salm/INDEX_ASM_AND_BACKGROUND --ref_fa /data3/projects/outbreak_challenge/salm/ref_info/Salm_refs/Enteritidis_P125109.fasta --dir_for_ref_objects ref --vcftools_dir ~/apps/vcftools_0.1.13/ --outdir results --stampy_bin /apps/well/stampy/1.0.24-py2.7/stampy.py --kmer 31 --mem_height 22 --mem_width 100 --procs 30 --prefix SALMONELLA_ASM_AND_BACKGROUND
+
+This runs up until the combine step, then fails due to a missing /.
+
+
+
+
+3. Fix Cortex, move to commit de89a1e0907b8a8bd5245d26d622eaec70f6e9f8
+
+and restart:
+
+pwd
+/data3/projects/outbreak_challenge/analyses/salmonella
+
+perl ~/dev/git/cortex/scripts/calling/run_indep_wkflow_with_gnu_par.pl  --index /data3/projects/outbreak_challenge/salm/INDEX_ASM_AND_BACKGROUND --ref_fa /data3/projects/outbreak_challenge/salm/ref_info/Salm_refs/Enteritidis_P125109.fasta --dir_for_ref_objects ref --vcftools_dir ~/apps/vcftools_0.1.13/ --outdir results --stampy_bin /apps/well/stampy/1.0.24-py2.7/stampy.py --kmer 31 --mem_height 22 --mem_width 100 --procs 30 --prefix SALMONELLA_ASM_AND_BACKGROUND >& output_indep_workflow_2

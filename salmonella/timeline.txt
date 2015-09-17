@@ -1,1 +1,9 @@
 Start download of data 10.30am BST 
+
+Started cortex indep pipeline on ASM and background, Wed Sep 16 15:11:03 BST 2015
+
+
+16 September 1500, started indep workflow on 2600 samples of Salmonella.
+
+By 17th September 17.08,we had called variants on 2600 samples (ASM+background) and had found 272,380 SNPs in total.
+ie we had run indep pipeline up to combine step.
