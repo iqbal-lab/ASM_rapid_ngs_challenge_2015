@@ -1,0 +1,5205 @@
+cat results/combine/list_args_for_final_step | parallel --gnu -j 30 --colsep '\t' /Net/fs1/home/zam/dev/git/cortex/scripts/calling/gt_1sample.pl --config results/combine/config.txt --invcf results//combine/SALMONELLA_ASM_AND_BACKGROUND.sites_vcf  --sample {1} --outdir {2} --sample_graph {3} 
+
+Finished! Sample 15MN00020 is genotyped and a VCF has been dumped
+
+Finished! Sample 07_0014 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0810 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00021 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0710 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0586 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0699 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0637 is genotyped and a VCF has been dumped
+
+Finished! Sample 07_0343 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00004 is genotyped and a VCF has been dumped
+
+Finished! Sample 07_1002 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0764 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00003 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0500 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0258 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0959 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_1282 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0355 is genotyped and a VCF has been dumped
+
+Finished! Sample 07_0704 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0569 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0380 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_1219 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_1184 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00002 is genotyped and a VCF has been dumped
+
+Finished! Sample 04_0676 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0611 is genotyped and a VCF has been dumped
+
+Finished! Sample 06_0753 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0479 is genotyped and a VCF has been dumped
+
+Finished! Sample 08_0497 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00022 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00023 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00025 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00027 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00024 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00028 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00026 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00030 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00029 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00031 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00035 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00032 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00050 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00033 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00042 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00034 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00036 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00037 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00043 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00051 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00052 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00056 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00057 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00054 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00058 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00059 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00062 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00067 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00063 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00060 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00061 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00068 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00090 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00089 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00088 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00069 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00070 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00091 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00092 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00097 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00100 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00104 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00098 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00106 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00099 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00107 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00105 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00108 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00109 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00110 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00112 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00111 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00120 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00121 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00125 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00123 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00122 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00124 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00126 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00127 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00132 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00133 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00128 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00130 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00134 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00135 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00131 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00136 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00137 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00138 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00142 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00147 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00139 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00141 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00144 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00140 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00146 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00154 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00145 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00148 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00149 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00152 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00153 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00156 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00155 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00157 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00163 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00158 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00169 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00172 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00174 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00164 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00171 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00165 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00170 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00173 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00175 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00176 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00197 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00198 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00204 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00209 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00207 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00203 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00210 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00205 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00206 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00212 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00213 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00208 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00211 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00221 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00224 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00222 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00223 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00225 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00226 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00234 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00237 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00239 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00228 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00241 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00232 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00233 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00238 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00240 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00227 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00242 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00229 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00243 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00244 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00266 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00267 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00285 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00265 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00268 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00302 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00276 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00300 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00286 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00245 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00303 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00287 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00288 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00301 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00308 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00304 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00306 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00321 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00307 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00319 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00320 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00341 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00305 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00323 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00322 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00340 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00343 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00342 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00344 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00346 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00345 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00383 is genotyped and a VCF has been dumped
+
+Finished! Sample 2009K0722 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00384 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00394 is genotyped and a VCF has been dumped
+
+Finished! Sample 2009K_0585 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00371 is genotyped and a VCF has been dumped
+
+Finished! Sample 2009K_0519 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00373 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00370 is genotyped and a VCF has been dumped
+
+Finished! Sample 2009K_0631 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00380 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00372 is genotyped and a VCF has been dumped
+
+Finished! Sample 15MN00385 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_0283 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_0808 is genotyped and a VCF has been dumped
+
+Finished! Sample 2010K_2682 is genotyped and a VCF has been dumped
+
+Finished! Sample 2009K_1620 is genotyped and a VCF has been dumped
+
+Finished! Sample 2009K_1733 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_0868 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_0033 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_0540 is genotyped and a VCF has been dumped
+
+Finished! Sample 2010K_2582 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1002 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_0863 is genotyped and a VCF has been dumped
+
+Finished! Sample 2010K_2457 is genotyped and a VCF has been dumped
+
+Finished! Sample 2010K_2571 is genotyped and a VCF has been dumped
+
+Finished! Sample 2010K_2719 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1411 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1468 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1348 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1786 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1503 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0170 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1788 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1789 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1787 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1784 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1922 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1493 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1734 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0073 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1691 is genotyped and a VCF has been dumped
+
+Finished! Sample 2011K_1785 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0348 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0347 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0840 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1010 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0375 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0346 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0845 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0574 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0681 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0540 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0678 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0227 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_0300 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1007 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1020 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1164 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1166 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1265 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1297 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1262 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1065 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1296 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1261 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1165 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1318 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1316 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1295 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1219 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1317 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1266 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1326 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1333 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1379 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1420 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1325 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1324 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1328 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1360 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1361 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1339 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1334 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1327 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1417 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1421 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1437 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1438 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1440 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1439 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1442 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1444 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1445 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1446 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1441 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1449 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1451 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1443 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1447 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1448 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1450 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1499 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1521 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1549 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1748 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1532 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1584 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1528 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0109 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1536 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013AM_0692 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0042 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1747 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013AM_0303 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0048 is genotyped and a VCF has been dumped
+
+Finished! Sample 2012K_1550 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0110 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0308 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0120 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0119 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0118 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0239 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0111 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0303 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0309 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0122 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0115 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0121 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0306 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0112 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0116 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0251 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0638 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0359 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0563 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0459 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0564 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0600 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0514 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0468 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0310 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0504 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0553 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0567 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0601 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0565 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0515 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0742 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0886 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1246 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0640 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1151 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1023 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1274 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0647 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0766 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0631 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1275 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0634 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0710 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0676 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_0887 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1314 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1350 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1349 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1600 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1635 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1638 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1321 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1334 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1636 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1633 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1333 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1578 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1351 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1352 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1322 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1650 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1747 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1639 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1821 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1823 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1649 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1661 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1798 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1792 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1797 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1796 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1791 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1790 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1822 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1799 is genotyped and a VCF has been dumped
+
+Finished! Sample 2013K_1828 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014EL_1200 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014AM_2863 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014EL_1063 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014EL_1072 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014EL_1071 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014EL_1186 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0029 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0030 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0031 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014EL_1083 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014EL_1195 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0021 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0032 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0060 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0172 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0095 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0171 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0067 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0174 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0066 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0069 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0175 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0176 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0173 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0167 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0065 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0169 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0168 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0084 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0178 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0177 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0181 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0180 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0218 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0210 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0217 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0219 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0179 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0183 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0206 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0192 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0184 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0182 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0211 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0290 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0326 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0334 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0348 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0351 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0387 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0324 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0375 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0333 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0386 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0220 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0233 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0388 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0314 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0374 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0402 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0443 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0433 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0425 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0422 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0424 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0427 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0444 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0423 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0434 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0421 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0426 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0403 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0404 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0401 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0502_2 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0501 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0500 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0502 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0527 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0499 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0501_2 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0532 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0528 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0526 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0530 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0523 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0560 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0525 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0485 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0487 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0614 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0592 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0468 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0603 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0675 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0471 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0472 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0486 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0499_2 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0529 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0684 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0480 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0616 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0703 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0490 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0605 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0606 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0699 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0454 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0491 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0704 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0700_2 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0698_2 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0726 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0702 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0699_2 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0700 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0685 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0698 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0693 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0727 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0772 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0784 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0701_2 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0712 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0686 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0774 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0728 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0687 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0773 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0775 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0785 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0701 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0790 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0789 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0791 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0822 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0821 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0802 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0801 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0792 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0833 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0819 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0817 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0820 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0800 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0825 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0834 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0824 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0827 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0878 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0823 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0835 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0881 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0889 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0836 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0838 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0837 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0840 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0826 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0928 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0839 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0875 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0930 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0949 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0942 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0950 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0952 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0940 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0948 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0941 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0943 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0929 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0951 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0964 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0974 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0955 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0956 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0954 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0953 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0973 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0982 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0972 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0958 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0983 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0985 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0978 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0977 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0967 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0988 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0989 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0980 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0979 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0981 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0987 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0994 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1012 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1015 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1008 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0984 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0996 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0986 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_0993 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1014 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1007 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1010 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1017 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1013 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0017 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0022 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0019 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0021 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1027 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1033 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1009 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0018 is genotyped and a VCF has been dumped
+
+Finished! Sample 2014K_1026 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0020 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0024 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0025 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0028 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0031 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0029 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0027 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0001 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0023 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0026 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0030 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0017 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0016 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0002 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0015 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0021 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015AM_0040 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0040 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0025 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0022 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0057 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0020 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0047 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0054 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0041 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0058 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0063 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0056 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0042 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0059 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0085 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0075 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0087 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0084 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0086 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0106 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0088 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0089 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0180 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0150 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0151 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0177 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0121 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0176 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0179 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0152 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0189 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0122 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0181 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0204 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0205 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0178 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0182 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0187 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0188 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0183 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0190 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0129 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0185 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0207 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0193 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0220 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0191 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0206 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0184 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0208 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0192 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0229 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0221 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0219 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0209 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0222 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0228 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0194 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0272 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0264 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0268 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0267 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0227 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0266 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0250 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0203 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0274 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0271 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0276 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0265 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0275 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0273 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0270 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0269 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0314 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0307 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0280 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0283 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0284 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0311 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0279 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0281 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0278 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0277 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0310 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0312 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0313 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0318 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0326 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0315 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0325 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0357 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0346 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0316 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0347 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0332 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0353 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0351 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0333 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0334 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0358 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0352 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0359 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0331 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0360 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0369 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0363 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0361 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0362 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0370 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0373 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0381 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0382 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0384 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0385 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0372 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0374 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0383 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0386 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0387 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0388 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0389 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0391 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0419 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0390 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0413 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0420 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0416 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0415 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0418 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0414 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0409 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0422 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0423 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0424 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0425 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0428 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0431 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0433 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0430 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0432 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0434 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0439 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0436 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0438 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0437 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0435 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0440 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0445 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0444 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0447 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0448 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0446 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0449 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0450 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0451 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0454 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0467 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0452 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0466 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0468 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0477 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0486 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0487 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0485 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0488 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0491 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0490 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0489 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0492 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0493 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0499 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0503 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0494 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0501 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0500 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0504 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0505 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0507 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0520 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0521 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0522 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0523 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0506 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0524 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0525 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0526 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0583 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0584 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0608 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0607 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0624 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0627 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0625 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0626 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0628 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0696 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0707 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0719 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0718 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0695 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0735 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0739 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0740 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0736 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0738 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0734 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0746 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0745 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0742 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0754 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0744 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0741 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0755 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0747 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0756 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0757 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0921 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0920 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0918 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0902 is genotyped and a VCF has been dumped
+
+Finished! Sample 2015K_0919 is genotyped and a VCF has been dumped
+
+Finished! Sample 92_0141 is genotyped and a VCF has been dumped
+
+Finished! Sample 93_0050 is genotyped and a VCF has been dumped
+
+Finished! Sample 94_0312 is genotyped and a VCF has been dumped
+
+Finished! Sample AM_39555 is genotyped and a VCF has been dumped
+
+Finished! Sample 98_0235 is genotyped and a VCF has been dumped
+
+Finished! Sample AM04707 is genotyped and a VCF has been dumped
+
+Finished! Sample AM41804 is genotyped and a VCF has been dumped
+
+Finished! Sample AM_39738 is genotyped and a VCF has been dumped
+
+Finished! Sample AM49198 is genotyped and a VCF has been dumped
+
+Finished! Sample AM48638 is genotyped and a VCF has been dumped
+
+Finished! Sample AM46756 is genotyped and a VCF has been dumped
+
+Finished! Sample AM_51471 is genotyped and a VCF has been dumped
+
+Finished! Sample AM43346 is genotyped and a VCF has been dumped
+
+Finished! Sample AM42678 is genotyped and a VCF has been dumped
+
+Finished! Sample AM46702 is genotyped and a VCF has been dumped
+
+Finished! Sample C6472 is genotyped and a VCF has been dumped
+
+Finished! Sample CDC73_99 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00202 is genotyped and a VCF has been dumped
+
+Finished! Sample K3657 is genotyped and a VCF has been dumped
+
+Finished! Sample K3659 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00203 is genotyped and a VCF has been dumped
+
+Finished! Sample K3662 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00204 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00205 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00206 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00207 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00208 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00209 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00213 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00210 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00211 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00212 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00214 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00215 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00216 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00217 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00218 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00220 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00219 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00223 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00222 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00227 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00221 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00225 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00226 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00229 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00228 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00234 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00230 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00233 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00231 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00236 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00235 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00237 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00241 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00240 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00238 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00242 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00244 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00247 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00245 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00246 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00248 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00249 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00250 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00253 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00255 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00254 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00252 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00782 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00779 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00256 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00781 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00778 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00780 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00784 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00787 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00785 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00783 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00786 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00790 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00791 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00792 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00789 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00793 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00788 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00794 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00795 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00797 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00800 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00796 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00798 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00799 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00801 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00802 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00803 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00806 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00804 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00805 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00809 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00811 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00812 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00808 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00810 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00807 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00815 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00814 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00813 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00816 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00817 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00827 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00823 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00828 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00829 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00826 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00824 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00825 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00843 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00830 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00841 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00834 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00833 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00832 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00831 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00835 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00836 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00844 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00842 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00845 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00848 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00846 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00847 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00849 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00850 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00851 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00852 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00853 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00856 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00855 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00854 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00857 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00878 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00880 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00881 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00885 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00888 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00879 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00887 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00886 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00889 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00891 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00890 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00893 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00895 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00896 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00894 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00892 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00898 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00897 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00912 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00909 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00940 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00901 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00900 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00941 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00944 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00942 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00943 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00946 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00945 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00965 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00966 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01017 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00968 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01021 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00967 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01018 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_00978 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01016 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01022 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01029 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01051 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01050 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01054 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01067 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01053 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01079 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01062 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01078 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01052 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01089 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2014_01080 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55041710 is genotyped and a VCF has been dumped
+
+Finished! Sample MDH_2015_00001 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55038755 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55066753 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55119574 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55041702 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55041601 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55066704 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55263483 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55224652 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55224659 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55235726 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_55306147 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55380194 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55362012 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55362024 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55362061 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55361901 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55380204 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55362073 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55380215 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460078 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460048 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460057 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460039 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460127 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460066 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460091 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55460189 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55524554 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55524779 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55600339 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55601028 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55601119 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55524586 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55655740 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55655771 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55655753 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55718321 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55718253 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55724498 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55726209 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55775996 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55841185 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55841159 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55904042 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55904057 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55904096 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55843228 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55904079 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55904150 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55904116 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55905266 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55904129 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55957804 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55959906 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55960901 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56021291 is genotyped and a VCF has been dumped
+
+Finished! Sample NY55960920 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56021260 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56085813 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56021276 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56085744 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56058490 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56104253 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56104917 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56161285 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56161301 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56161250 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56161314 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56205726 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56206993 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56205739 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56206572 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56205781 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250590 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56207004 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250555 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56207015 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250603 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250694 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250709 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250668 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250636 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250649 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56296697 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56250681 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56299818 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56299887 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56300851 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56300870 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56299851 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56316315 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56300061 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56299973 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56300821 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56360751 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56360838 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56360928 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56423955 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56581414 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56423894 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56425384 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56581488 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56423922 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56581512 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56581629 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56761665 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56657591 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56657578 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56582209 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56582447 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56657552 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56761711 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56657565 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56761923 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56857097 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56857138 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56857190 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56962591 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56916888 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56916864 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57016525 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56916781 is genotyped and a VCF has been dumped
+
+Finished! Sample NY56916987 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57079867 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57079789 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57039180 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57079882 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57120805 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57080271 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57193923 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57194058 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57194005 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57194031 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57193981 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57120837 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57194181 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57269402 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57379782 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57379802 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57462933 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57290959 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57269583 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57269529 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57379479 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57379764 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57269440 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57463012 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57719739 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57593952 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57594647 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57594977 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57594935 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57462994 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57720235 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57720071 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57719970 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57819028 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57720350 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57819039 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57819050 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57819720 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58046494 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58046468 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58046405 is genotyped and a VCF has been dumped
+
+Finished! Sample NY57819061 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58048932 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58048947 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58048917 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58211943 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58212073 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58227041 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58221007 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58276931 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58276911 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58223648 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58223281 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58277201 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58277242 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58277261 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58364429 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58276992 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58277053 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58364767 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58364624 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58364782 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58364714 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58473931 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58474062 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58473252 is genotyped and a VCF has been dumped
+
+Finished! Sample NY58474216 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1001 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1233 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1234 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1229 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1230 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1236 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1240 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1239 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1238 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1235 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1246 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1244 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1243 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1242 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1245 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1241 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1248 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1247 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1249 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1250 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1252 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1251 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1256 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1253 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1255 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1254 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1257 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1261 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1258 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1263 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1260 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1259 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1266 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1262 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1267 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1268 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1270 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1269 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1273 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1275 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1274 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1272 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1271 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1276 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1277 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1278 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1279 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1280 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1281 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1283 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1282 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1285 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1286 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1287 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1284 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1288 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1292 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1290 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1291 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1289 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1294 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1295 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1296 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1293 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1299 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1297 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1298 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1300 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1301 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1302 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1304 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1303 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1306 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1307 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1308 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1311 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1310 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1305 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1309 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1312 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1318 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1320 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1314 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1313 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1321 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1322 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1324 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1323 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1325 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1319 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1317 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1326 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1329 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1333 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1336 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1334 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1328 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1330 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1327 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1332 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1331 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1335 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1337 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1339 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1340 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1338 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1341 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1342 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1343 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1344 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1347 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1346 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1348 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1345 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1350 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1353 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1355 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1354 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1349 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1352 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1351 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1356 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1362 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1357 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1360 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1359 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1361 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1363 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1358 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1365 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1364 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1366 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1369 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1378 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1367 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1370 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1373 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1374 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1368 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1384 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1382 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1381 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1380 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1379 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1377 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1383 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1376 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1375 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1371 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1372 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1385 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1386 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1389 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1387 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1388 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1391 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1390 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1398 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1400 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1396 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1393 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1402 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1394 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1392 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1399 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1397 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1403 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1395 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1401 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1407 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1408 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1406 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1405 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1409 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1404 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1410 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1414 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1413 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1412 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1411 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1416 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1417 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1415 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1421 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1418 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1419 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1420 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1422 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1423 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1424 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1427 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1426 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1430 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1428 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1432 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1425 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1429 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1431 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1433 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1446 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1444 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1449 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1450 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1447 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1448 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1445 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1452 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1453 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1451 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1454 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1462 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1466 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1460 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1455 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1456 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1463 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1461 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1468 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1470 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1474 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1467 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1472 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1471 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1469 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1473 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1475 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1477 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1476 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1478 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1479 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1480 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1483 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1481 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1482 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1484 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1485 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1496 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1495 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1497 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1498 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1500 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1506 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1504 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1507 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1505 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1499 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1501 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1508 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1510 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1514 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1509 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1513 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1520 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1517 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1515 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1518 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1516 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1519 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1521 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1525 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1524 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1522 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1531 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1523 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1526 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1527 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1532 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1530 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1533 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1534 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1535 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1537 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1542 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1539 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1538 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1540 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1536 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1543 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1544 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1546 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1548 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1550 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1545 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1549 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1554 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1547 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1551 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1553 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1552 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1555 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1556 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1557 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1558 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1561 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1560 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1564 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1559 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1562 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1563 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1565 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1569 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1570 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1566 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1568 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1567 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1572 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1571 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1574 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1573 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1577 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1581 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1578 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1575 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1576 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1583 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1579 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1580 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1582 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1584 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1585 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1587 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1586 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1588 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1594 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1591 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1590 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1593 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1589 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1597 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1592 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1598 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1602 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1601 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1595 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1596 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1599 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1600 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1603 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1605 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1604 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1609 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1606 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1607 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1610 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1612 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1613 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1608 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1611 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1615 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1614 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1616 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1618 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1617 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1620 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1619 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1623 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1624 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1622 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1621 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1625 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1628 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1627 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1626 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000001 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000002 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000003 is genotyped and a VCF has been dumped
+
+Finished! Sample NY_swgs1629 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000004 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000008 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000007 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000006 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000009 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000005 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000011 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000012 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000016 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000013 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000015 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000010 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000014 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000018 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000024 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000020 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000022 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000023 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000019 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000021 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000025 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000017 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000026 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000027 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000028 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000031 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000029 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000032 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000034 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000033 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000030 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000035 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000036 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000037 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000039 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000038 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000043 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000041 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000040 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000046 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000044 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000042 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000045 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000047 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000048 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000049 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000051 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000050 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000053 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000055 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000054 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000052 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000059 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000057 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000056 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000058 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000060 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000067 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000063 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000061 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000068 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000062 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000065 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000066 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000070 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000069 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000064 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000071 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000075 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000073 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000076 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000072 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000074 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000081 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000080 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000077 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000079 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000082 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000078 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000085 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000084 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000083 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000090 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000088 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000087 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000086 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000089 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000092 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000091 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000094 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000095 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000093 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000096 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000097 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000100 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000098 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000099 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000102 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000103 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000104 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000101 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000105 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000106 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000108 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000107 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000109 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000110 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000112 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000111 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000113 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000116 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000114 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000115 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000118 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000117 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000123 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000120 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000119 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000121 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000122 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000124 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000125 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000128 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000131 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000130 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000126 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000127 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000129 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000132 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000133 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000134 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000136 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000145 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000135 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000146 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000148 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000147 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000149 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000152 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000153 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000154 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000155 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000157 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000159 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000156 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000158 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000160 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000162 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000164 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000163 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000165 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000161 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000166 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000169 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000170 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000171 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000167 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000168 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000174 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000172 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000173 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000175 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000176 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000177 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000178 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000179 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000183 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000182 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000180 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000185 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000181 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000184 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000186 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000187 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000191 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000188 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000190 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000189 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000192 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000194 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000193 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000195 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000196 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000197 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000200 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000199 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000203 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000198 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000204 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000202 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000206 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000201 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000205 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000207 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000208 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000209 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000211 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000210 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000212 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000215 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000213 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000214 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000218 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000219 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000216 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000217 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000220 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000224 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000222 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000223 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000221 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000225 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000227 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000229 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000226 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000228 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000230 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000237 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000232 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000233 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000241 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000240 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000238 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000239 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000242 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000243 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000246 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000245 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000244 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000248 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000250 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000249 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000247 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000252 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000251 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000253 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000255 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000256 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000257 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000254 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000258 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000259 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000260 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000262 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000263 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000265 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000261 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000264 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000267 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000266 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000270 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000269 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000268 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000273 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000272 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000274 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000276 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000275 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000279 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000281 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000278 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000280 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000277 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000282 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000283 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000286 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000289 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000288 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000290 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000287 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000292 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000293 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000291 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000294 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000298 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000303 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000304 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000306 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000305 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000299 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000307 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000330 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000309 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000308 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000331 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000332 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000333 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000334 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000335 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000336 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000337 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000340 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000338 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000339 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000341 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000342 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000351 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000371 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000344 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000346 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000343 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000347 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000349 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000345 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000350 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000352 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000354 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000355 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000356 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000353 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000357 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000360 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000365 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000363 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000361 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000358 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000359 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000362 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000366 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000370 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000368 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000372 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000375 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000373 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000374 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000376 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000378 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000379 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000381 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000380 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000383 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000384 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000385 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000382 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000388 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000391 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000390 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000389 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000387 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000386 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000392 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000393 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000395 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000397 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000394 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000399 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000398 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000396 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000400 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000401 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000402 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000404 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000405 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000403 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000406 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000407 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000408 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000409 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000410 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000411 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000412 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000413 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000414 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000415 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000417 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000416 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000418 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000419 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000421 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000420 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000422 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000426 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000424 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000423 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000428 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000429 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000427 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000425 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000430 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000431 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000432 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000437 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000436 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000433 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000441 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000439 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000438 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000442 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000440 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000443 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000444 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000447 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000445 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000446 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000449 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000450 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000448 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000452 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000451 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000462 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000453 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000460 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000461 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000464 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000459 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000463 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000467 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000469 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000465 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000468 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000466 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000470 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000477 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000475 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000476 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000474 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000472 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000471 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000473 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000478 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000480 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000479 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000481 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000482 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000484 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000483 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000485 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000486 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000490 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000488 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000494 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000492 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000493 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000491 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000495 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000496 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000497 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000500 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000498 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000499 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000501 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000504 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000502 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000508 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000509 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000503 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000505 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000506 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000507 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000511 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000510 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000514 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000512 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000513 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000517 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000515 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000518 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000516 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000519 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000520 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000522 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000523 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000525 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000526 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000521 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000524 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000529 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000530 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000528 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000527 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000531 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000532 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000533 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000534 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000536 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000535 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000537 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000539 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000538 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000540 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000541 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000544 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000545 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000543 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000546 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000548 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000542 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000547 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000549 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000550 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000551 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000553 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000552 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000554 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000555 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000556 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000560 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000559 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000565 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000562 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000564 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000563 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000561 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000568 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000570 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000567 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000571 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000569 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000566 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000574 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000573 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000575 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000576 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000577 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000579 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000578 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000584 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000586 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000581 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000583 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000580 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000582 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000591 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000590 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000592 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000595 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000594 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000600 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000601 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000597 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000598 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000599 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000604 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000596 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000603 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000602 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000605 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000606 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000607 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000608 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000609 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000610 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000611 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000612 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000613 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000614 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000615 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000616 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000619 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000617 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000618 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000623 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000620 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000622 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000625 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000621 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000624 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000626 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000627 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000628 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000629 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000630 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000632 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000631 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000633 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000635 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000634 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000637 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000639 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000636 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000638 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000641 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000642 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000640 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000646 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000645 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000644 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000643 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000648 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000647 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000650 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000649 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000654 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000655 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000652 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000653 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000651 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000658 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000659 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000657 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000656 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000661 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000662 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000663 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000660 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000664 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000665 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000667 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000666 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000668 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000669 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000671 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000672 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000673 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000675 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000670 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000674 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000676 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000679 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000682 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000678 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000677 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000681 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000680 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000685 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000683 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000687 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000689 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000684 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000688 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000686 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000692 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000693 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000691 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000690 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000695 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000694 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000696 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000697 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000698 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000699 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000703 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000702 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000705 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000700 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000704 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000701 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000706 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000712 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000711 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000708 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000707 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000710 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000709 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000713 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000715 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000717 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000714 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000718 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000716 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000720 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000721 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000719 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000722 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000726 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000723 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000725 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000724 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000727 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000729 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000728 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000731 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000730 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000733 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000732 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000734 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000735 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000737 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000736 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000741 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000739 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000738 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000740 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000742 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000743 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000746 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000745 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000744 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000747 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000748 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000750 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000751 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000754 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000753 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000749 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000752 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000755 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000760 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000761 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000757 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000756 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000758 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000768 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000764 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000762 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000763 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000767 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000766 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000773 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000769 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000771 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000772 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000770 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000774 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000775 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000778 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000780 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000776 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000777 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000779 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000782 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000781 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000800 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000795 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000796 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000801 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000802 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000804 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000808 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000807 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000803 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000806 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000811 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000812 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000813 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000818 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000814 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000817 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000815 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000820 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000816 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000819 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000822 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000823 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000821 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000826 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000827 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000825 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000824 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000829 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000830 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000842 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000828 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000843 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000867 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000868 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000845 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000869 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000844 is genotyped and a VCF has been dumped
+
+Finished! Sample PNUSAS000866 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352190 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352188 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352186 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352191 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352193 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352189 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352192 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352185 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352187 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352196 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352194 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352195 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352197 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352198 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352200 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352204 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352206 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352207 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352202 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352199 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352201 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352203 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352208 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352209 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352210 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352211 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352205 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352214 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352213 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352217 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352216 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352215 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352212 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352219 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352218 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352220 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352222 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352221 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352223 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352224 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352225 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352226 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352228 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352227 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352230 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352232 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352229 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352231 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352234 is genotyped and a VCF has been dumped
+
+Finished! Sample SRR2352233 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1003 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1004 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1005 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1006 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1008 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1009 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1007 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1010 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1011 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1012 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1013 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1015 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1014 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1018 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1017 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1016 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1019 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1020 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1024 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1026 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1022 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1021 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1023 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1025 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1029 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1030 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1028 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1027 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1032 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1031 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1033 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1039 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1036 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1034 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1035 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1037 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1038 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1040 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1041 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1048 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1047 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1045 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1046 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1044 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1043 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1042 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1049 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1050 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1052 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1051 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1056 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1053 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1054 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1055 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1060 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1058 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1059 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1057 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1062 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1061 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1063 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1069 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1068 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1067 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1065 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1064 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1066 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1070 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1072 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1071 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1074 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1075 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1073 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1076 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1077 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1078 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1079 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1080 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1081 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1082 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1086 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1084 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1085 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1088 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1083 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1087 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1089 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1090 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1091 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1092 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1194 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1093 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1094 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1198 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1095 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1197 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1195 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1196 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1199 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1200 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1202 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1205 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1203 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1207 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1206 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1204 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1208 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1201 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1209 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1211 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1215 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1213 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1212 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1210 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1217 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1218 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1214 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1216 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1219 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1222 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1227 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1224 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1228 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1226 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1221 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1220 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1225 is genotyped and a VCF has been dumped
+
+Finished! Sample swgs1223 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00621 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00613 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00620 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00614 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00622 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00616 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00619 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00618 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00623 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00615 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00632 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00630 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00624 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00628 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00626 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00627 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00625 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00631 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00633 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00634 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00635 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00639 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00641 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00644 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00637 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00642 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00643 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00638 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00646 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00636 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00640 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00645 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00647 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00648 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00649 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00653 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00652 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00650 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00654 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00651 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00658 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00655 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00659 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00667 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00668 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00669 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00670 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00666 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00656 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00657 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00671 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00672 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00673 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00679 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00683 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00678 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00675 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00674 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00681 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00682 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00676 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00884 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00677 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00680 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00885 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00887 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00888 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00889 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00886 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00891 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00912 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00913 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00895 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00911 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00914 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00890 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00896 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00894 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00893 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00892 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00915 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00916 is genotyped and a VCF has been dumped
+
+Finished! Sample WAPHL_SAL_A00917 is genotyped and a VCF has been dumped
