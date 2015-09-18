@@ -20,3 +20,43 @@ pwd
 /data3/projects/outbreak_challenge/analyses/salmonella
 
 perl ~/dev/git/cortex/scripts/calling/run_indep_wkflow_with_gnu_par.pl  --index /data3/projects/outbreak_challenge/salm/INDEX_ASM_AND_BACKGROUND --ref_fa /data3/projects/outbreak_challenge/salm/ref_info/Salm_refs/Enteritidis_P125109.fasta --dir_for_ref_objects ref --vcftools_dir ~/apps/vcftools_0.1.13/ --outdir results --stampy_bin /apps/well/stampy/1.0.24-py2.7/stampy.py --kmer 31 --mem_height 22 --mem_width 100 --procs 30 --prefix SALMONELLA_ASM_AND_BACKGROUND >& output_indep_workflow_2
+
+
+[Parenthesis
+I did wonder how many of the phyloSNPs differentiating our references had been called in our 2600 samples
+
+pwd
+/data3/projects/outbreak_challenge/analyses/salmonella/phylo_typing/
+
+perl compare_phylosnps_with_sites_vcf.pl 
+Running in the 2600 samples called 2984 out of 3910 phylo SNPs]
+
+
+4. Combine VCFs
+
+bash-4.1$ ls results/*/union_calls/*saved | head -n 500 | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/combined_results_usingvcflib.vcf.div1 bash-4.1$ ls results/*/union_calls/*saved | head -n 1000 | tail -n 500 | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/combined_results_usingvcflib.vcf.div2
+bash-4.1$ ls results/*/union_calls/*saved | head -n 1500 | tail -n 500 | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/combined_results_usingvcflib.vcf.div3
+bash-4.1$ ls results/*/union_calls/*saved | head -n 2000 | tail -n 500 | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/combined_results_usingvcflib.vcf.div4
+bash-4.1$ ls results/*/union_calls/*saved | tail -n 600 | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/combined_results_usingvcflib.vcf.div5
+bash-4.1$ 
+
+ls results/*div* | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/combined_all_samples.vcflib.vcf
+
+[Restrict the individual vcfs to the set of SNPs that overlap with those differentiating references.
+cat phylo_typing/list_sample_and_bg_vcfs | parallel --gnu -j15 --colsep "\t" perl /data2/users/rachel/projects/outbryk/scripts/subset_to_match_sites.pl --bigvcf {1} --sitesvcf phylo_typing/SALMONELLA_ASM_AND_BACKGROUND.sites_vcf.phylo_sites.vcf --outfile {2}]
+
+
+
+5. Combine the phylovcfs
+
+
+bash-4.1$ ls results/*/union_calls/*phylosnps |  head -n 500 | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/all_samples_phylosnps.vcf.div1
+bash-4.1$ ls results/*/union_calls/*phylosnps |  head -n 1000 | tail -n 500  | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/all_samples_phylosnps.vcf.div2
+bash-4.1$ ls results/*/union_calls/*phylosnps |  head -n 1500 | tail -n 500  | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/all_samples_phylosnps.vcf.div3
+bash-4.1$ ls results/*/union_calls/*phylosnps |  head -n 2000 | tail -n 500  | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/all_samples_phylosnps.vcf.div4
+bash-4.1$ ls results/*/union_calls/*phylosnps | tail -n 600  | xargs  ~/dev/git/vcflib/bin/vcfcombine > results/all_samples_phylosnps.vcf.div5
+bash-4.1$ ls results/*phylo*div*
+results/all_samples_phylosnps.vcf.div1  results/all_samples_phylosnps.vcf.div3  results/all_samples_phylosnps.vcf.div5
+results/all_samples_phylosnps.vcf.div2  results/all_samples_phylosnps.vcf.div4
+bash-4.1$ ls results/*phylo*div* | xargs  ~/dev/git/vcflib/bin/vcfcombine > all_samples_phylosnps.vcf
+
