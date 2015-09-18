@@ -60,3 +60,19 @@ results/all_samples_phylosnps.vcf.div1  results/all_samples_phylosnps.vcf.div3  
 results/all_samples_phylosnps.vcf.div2  results/all_samples_phylosnps.vcf.div4
 bash-4.1$ ls results/*phylo*div* | xargs  ~/dev/git/vcflib/bin/vcfcombine > all_samples_phylosnps.vcf
 
+6. Make a tree from the single vcf based on the ~3000 SNPs
+bash /data2/users/rachel/projects/outbryk/scripts/vcf_CortextofastaSNPs2.sh results/all_samples_phylosnps.vcf
+snp-sites -p -o results/all_samples_phylosnps.vcf.phy results/all_samples_phylosnps.vcf.fasta
+/apps/well/fasttree/20150325/FastTree -nt /Net/cycloid/data3/projects/outbreak_challenge/analyses/salmonella/results/all_samples_phylosnps.vcf.fasta > /Net/cycloid/data3/projects/outbreak_challenge/analyses/salmonella/results/all_samples_phylosnps.vcf.fasta.tree
+
+
+7 Combine rhw reference genome VCF and samples VCFs
+
+bash-4.1$ perl strip_to_gt.pl results/all_samples_phylosnps.vcf
+bash-4.1$
+bash-4.1$ perl strip_to_gt.pl /data2/users/rachel/projects/outbreak_test/compare_salm_refs/salmonella_ref_snps.sites_only.vcf
+bash-4.1$ 
+bash-4.1$ 
+bash-4.1$ ~/dev/git/vcflib/bin/vcfcombine /data2/users/rachel/projects/outbreak_test/compare_salm_refs/salmonella_ref_snps.sites_only.vcf.gt_only results/all_samples_phylosnps.vcf.gt_only > results/references_and_all_samples_phylosnps.gt_only.vcf
+
+
