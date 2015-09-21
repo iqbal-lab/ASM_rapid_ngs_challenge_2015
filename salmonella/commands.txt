@@ -76,3 +76,32 @@ bash-4.1$
 bash-4.1$ ~/dev/git/vcflib/bin/vcfcombine /data2/users/rachel/projects/outbreak_test/compare_salm_refs/salmonella_ref_snps.sites_only.vcf.gt_only results/all_samples_phylosnps.vcf.gt_only > results/references_and_all_samples_phylosnps.gt_only.vcf
 
 
+
+8 Calculate hets
+perl ~/dev/git/outbryk/scripts/calc_hets.pl --vcf results/combined_all_samples.vcflib.vcf
+
+9a. Make trees using phylosnps filtering to gt_conf thresholds of 10, 20, 30
+[ outbryk commit b76d227031cb6ffc50994c00d17ba3a4be1debcd]
+bash-4.1$ perl /data2/users/rachel/projects/outbryk/scripts/filter_cortex_vcf.pl results/all_samples_phylosnps.vcf
+bash-4.1$ bash /data2/users/rachel/projects/outbryk/scripts/vcf_CortextofastaSNPs2.sh results/all_samples_phylosnps.vcf.filtered_missing.conf_thresh30
+
+9. Make vcfs of a subset of samples, filtering to gt_conf thresholds of 10,20,30
+-bash-4.1$ cp results/combined_all_samples.vcflib.vcf tree_analyses/combined_all_samples.vcflib.vcf
+-bash-4.1$ vcf-subset -c tree_analyses/list_samples_of_interest.txt tree_analyses/combined_all_samples.vcflib.vcf > tree_analyses/samples_of_interest.vcflib.vcf
+-bash-4.1$ less tree_analyses/samples_of_interest.vcflib.vcf 
+
+
+10. Make VCF of reference genomes at the sites found in the samples
+
+ pwd
+/data3/projects/outbreak_challenge/salm/ref_info/type_at_sites_found_in_samples/results/combine
+
+Copy over reference genome binary and bubbles binary, ready for genotyping
+
+ cp /data3/projects/outbreak_challenge/analyses/salmonella/results/combine/* .
+
+pwd
+/data3/projects/outbreak_challenge/salm/ref_info/type_at_sites_found_in_samples
+
+
+cat list_args  | parallel --gnu -j 2 --colsep '\t' /Net/fs1/home/zam/dev/git/cortex/scripts/calling/gt_1sample.pl --config results/combine/config.txt --invcf /data3/projects/outbreak_challenge/analyses/salmonella/results/combine/SALMONELLA_ASM_AND_BACKGROUND.sites_vcf  --sample {1} --outdir {2} --sample_graph {3} --mem_height 19 --mem_width 100 --genome_size 5000000
